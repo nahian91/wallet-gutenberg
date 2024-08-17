@@ -1,0 +1,537 @@
+<?php include 'header.php'; ?>
+
+<!-- Banner -->
+<section class="banner-area">
+   <div class="container">
+      <div class="row align-items-center justify-content-center">
+         <div class="col-lg-6 mb-5 mb-lg-0">
+            <div class="banner-content">
+               <h1 class="text-capitalize">get a fastest loan with a smart way by seating at home</h1>
+               <p>We have collected the best offers of credit institutions and banks<br>of Colombia. It remains to choose what suits you as fast as you.</p>
+               <a class="btn-box" href="#">Apply Loan Now <span class="fas fa-arrow-right"></span></a>
+            </div>
+         </div>
+         <div class="col-lg-6">
+            <div class="banner-img">
+              <img src="assets/img/banner.png" alt="banner image" class="w-100">
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Banner -->
+
+<!-- About Us -->
+<section class="about-area pt-100 pb-100">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-lg-6">
+            <div class="about-title">
+               <span>Difference Of Us</span>
+               <h4>What Makes Us <br> Different Form Other?</h4>
+               <div class="about-content">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consv allis quam aliquet integer eget magna ullam corper intesager peent esque urna. Ac eu fringilla intea dger egadv estas ut. Sed vulutate aenean nunc quis a urna morbi id vitae. Vulpuate nisl</p>
+                  <p>sed morbi sit ut placerat eges aeftas et. Pellen tesque tristisque magnis augue gravida pulvinar placerat. Tellus massa pretra scelerisque leo. In volutpat arcu nunc nisl et, viverra faucisfbus egestas. In habitasse sagittis, convallis ut commodo amet, odio sagittis. Maecenas massa turpis duis felis, massa. Morbi feugiat. </p>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-6">
+            <div class="single-about">
+               <div class="single-about-icon">
+                  <i class="fas fa-shield-alt"></i>
+               </div>
+               <div class="single-about-content">
+                  <h4>Fast And Secure Process</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue</p>
+               </div>
+            </div>
+            <div class="single-about">
+               <div class="single-about-icon">
+                  <i class="fas fa-blender-phone"></i>
+               </div>
+               <div class="single-about-content">
+                  <h4>Quick Question Answers</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue</p>
+               </div>
+            </div>
+            <div class="single-about">
+               <div class="single-about-icon"> 
+                  <i class="fas fa-money-bill-alt"></i>
+               </div>
+               <div class="single-about-content">
+                  <h4>We Get You Your Cash Quick</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing. Portaa nulla congue sed aliquam id adipiscing auue</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- About Us -->
+
+<!-- Services -->
+<section class="services-area pt-100 pb-100">
+   <div class="container">      
+      <div class="row">         
+         <div class="col-12">
+            <div class="section-title text-center mb-5">
+               <span class="text-capitalize mb-1">Connect with Us</span>
+               <h4 class="text-capitalize">let’s get connected</h4>
+               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi quam excepturi harum ipsa <br> veritatis eos quisquam asperiores tempora officiis nihil.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-6">
+            <div class="single-service">
+               <a href="#">
+                  <span>01</span>
+                  <h4>Personal loans</h4>
+                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur est iusto, at libero maxime ullam, nesciunt non neque commodi odit autem enim error quas quibusdam.</p>
+               </a>
+            </div>            
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="single-service">
+               <a href="#">
+                  <span>02</span>
+                  <h4>Home Equity Loans</h4>
+                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur est iusto, at libero maxime ullam, nesciunt non neque commodi odit autem enim error quas quibusdam.</p>
+               </a>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="single-service">
+               <a href="#">
+                  <span>03</span>
+                  <h4>Student Loans</h4>
+                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur est iusto, at libero maxime ullam, nesciunt non neque commodi odit autem enim error quas quibusdam.</p>
+               </a>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="single-service">
+               <a href="#">
+                  <span>04</span>
+                  <h4>Mortgage Loans</h4>
+                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur est iusto, at libero maxime ullam, nesciunt non neque commodi odit autem enim error quas quibusdam.</p>
+               </a>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="single-service">
+               <a href="#">
+                  <span>05</span>
+                  <h4>Payday Loans</h4>
+                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur est iusto, at libero maxime ullam, nesciunt non neque commodi odit autem enim error quas quibusdam.</p>
+               </a>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="single-service">
+               <a href="#">
+                  <span>06</span>
+                  <h4>Payday Loans</h4>
+                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur est iusto, at libero maxime ullam, nesciunt non neque commodi odit autem enim error quas quibusdam.</p>
+               </a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Services -->
+
+<!-- Testimonials -->
+<section class="testimonials-area pt-100 pb-100">
+   <div class="container">      
+      <div class="row">         
+         <div class="col-12">
+            <div class="section-title text-center mb-5">
+               <span class="text-capitalize mb-1">Connect with Us</span>
+               <h4 class="text-capitalize">let’s get connected</h4>
+               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi quam excepturi harum ipsa <br> veritatis eos quisquam asperiores tempora officiis nihil.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-6">
+            <div class="single-testimonial">
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos assumenda eligendi odio animi voluptas! Odit repudiandae ratione modi labore unde.</p>
+               <div class="author-info">
+                  <img src="assets/img/01.jpg" alt="Leslie Alexander" class="img-fluid">
+                  <div class="author-content">
+                     <h4>Leslie Alexander <span>Web Designer</span></h4>
+                  </div>
+               </div>               
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6 pt-1">
+            <div class="single-testimonial">
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos assumenda eligendi odio animi voluptas! Odit repudiandae ratione modi labore unde.</p>
+               <div class="author-info">
+                  <img src="assets/img/01.jpg" alt="Leslie Alexander" class="img-fluid">
+                  <div class="author-content">
+                     <h4>Leslie Alexander <span>Web Designer</span></h4>
+                  </div>
+               </div>               
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6 pt-1">
+            <div class="single-testimonial">
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos assumenda eligendi odio animi voluptas! Odit repudiandae ratione modi labore unde.</p>
+               <div class="author-info">
+                  <img src="assets/img/01.jpg" alt="Leslie Alexander" class="img-fluid">
+                  <div class="author-content">
+                     <h4>Leslie Alexander <span>Web Designer</span></h4>
+                  </div>
+               </div>               
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6 pt-1">
+            <div class="single-testimonial">
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos assumenda eligendi odio animi voluptas! Odit repudiandae ratione modi labore unde.</p>
+               <div class="author-info">
+                  <img src="assets/img/01.jpg" alt="Leslie Alexander" class="img-fluid">
+                  <div class="author-content">
+                     <h4>Leslie Alexander <span>Web Designer</span></h4>
+                  </div>
+               </div>               
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6 pt-1">
+            <div class="single-testimonial">
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos assumenda eligendi odio animi voluptas! Odit repudiandae ratione modi labore unde.</p>
+               <div class="author-info">
+                  <img src="assets/img/01.jpg" alt="Leslie Alexander" class="img-fluid">
+                  <div class="author-content">
+                     <h4>Leslie Alexander <span>Web Designer</span></h4>
+                  </div>
+               </div>               
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6 pt-1">
+            <div class="single-testimonial">
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos assumenda eligendi odio animi voluptas! Odit repudiandae ratione modi labore unde.</p>
+               <div class="author-info">
+                  <img src="assets/img/01.jpg" alt="Leslie Alexander" class="img-fluid">
+                  <div class="author-content">
+                     <h4>Leslie Alexander <span>Web Designer</span></h4>
+                  </div>
+               </div>               
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Testimonials -->
+ 
+<!-- Loan Tab -->
+<section class="loan-area pt-100 pb-100">
+   <div class="container">      
+      <div class="row">         
+         <div class="col-12">
+            <div class="section-title text-center mb-5">
+               <span class="text-capitalize mb-1">Connect with Us</span>
+               <h4 class="text-capitalize">let’s get connected</h4>
+               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi quam excepturi harum ipsa <br> veritatis eos quisquam asperiores tempora officiis nihil.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-12">
+            <div class="loan-accordion" id="loan-accordion">
+               <div class="single-loan-item">
+                  <h4 data-bs-toggle="collapse" data-bs-target="#loanItemOne" aria-expanded="true" aria-controls="loanItemOne">Accordion Item #1
+                  </h4>
+                  <div id="loanItemOne" class="accordion-collapse collapse show" data-bs-parent="#loan-accordion">
+                     <div class="loan-content">
+                        <p>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.loan-content</code>, though the transition does limit overflow.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="single-loan-item">
+                  <h4 data-bs-toggle="collapse" data-bs-target="#loanItemTwo">Accordion Item #2</h4>
+                  <div id="loanItemTwo" class="accordion-collapse collapse" data-bs-parent="#loan-accordion">
+                     <div class="loan-content">
+                        <p><strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.loan-content</code>, though the transition does limit overflow.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="single-loan-item">
+                  <h4 data-bs-toggle="collapse" data-bs-target="#loanItemThree">Accordion Item #3</h4>
+                  <div id="loanItemThree" class="accordion-collapse collapse" data-bs-parent="#loan-accordion">
+                     <div class="loan-content">
+                     <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.loan-content</code>, though the transition does limit overflow.
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Loan Tab -->
+
+<section class=" pt-100 pb-100">
+   <div class="container">
+   <div class="row">         
+         <div class="col-12">
+            <div class="section-title text-center mb-5">
+               <span class="text-capitalize mb-1">Connect with Us</span>
+               <h4 class="text-capitalize">let’s get connected</h4>
+               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi quam excepturi harum ipsa <br> veritatis eos quisquam asperiores tempora officiis nihil.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-md-12">
+
+         <ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Home</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">Profile</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">Contact</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="disabled-tab" data-bs-toggle="tab" data-bs-target="#disabled-tab-pane" type="button" role="tab" aria-controls="disabled-tab-pane" aria-selected="false" disabled>Disabled</button>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">...</div>
+  <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">...</div>
+  <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab" tabindex="0">...</div>
+  <div class="tab-pane fade" id="disabled-tab-pane" role="tabpanel" aria-labelledby="disabled-tab" tabindex="0">...</div>
+</div>
+         </div>
+      </div>
+   </div>
+</section>
+
+<!-- Teams -->
+<section class="team-area pt-100 pb-100">
+   <div class="container">
+      <div class="row">         
+         <div class="col-12">
+            <div class="section-title text-center mb-5">
+               <span class="text-capitalize mb-1">Connect with Us</span>
+               <h4 class="text-capitalize">let’s get connected</h4>
+               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi quam excepturi harum ipsa <br> veritatis eos quisquam asperiores tempora officiis nihil.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="single-team">
+               <div class="team-bg">
+                  <img src="assets/img/team-1.jpg" alt="Scarlet Pena" class="rounded w-100">
+               </div>
+               <div class="team-content">
+                  <h4>John Doe</h4>
+                  <p>CEO</p>
+                  <ul class="team-social">
+                     <li><a href="#"><i class="fab fa-facebook"></i></a>
+                     </li>
+                     <li><a href="#"><i class="fab fa-twitter"></i></a>
+                     </li>
+                     <li><a href="#"><i class="fab fa-instagram"></i></a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="single-team">
+               <div class="team-bg">
+                  <img src="assets/img/team-2.jpg" alt="Scarlet Pena" class="rounded w-100">
+               </div>
+               <div class="team-content">
+                  <h4>Micheal John</h4>
+                  <p>CTO</p>
+                  <ul class="team-social">
+                     <li><a href="#"><i class="fab fa-facebook"></i></a>
+                     </li>
+                     <li><a href="#"><i class="fab fa-twitter"></i></a>
+                     </li>
+                     <li><a href="#"><i class="fab fa-instagram"></i></a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="single-team">
+               <div class="team-bg">
+                  <img src="assets/img/team-3.jpg" alt="Scarlet Pena" class="rounded w-100">
+               </div>
+               <div class="team-content">
+                  <h4>Mathiu Milani</h4>
+                  <p>General Member</p>
+                  <ul class="team-social">
+                     <li><a href="#"><i class="fab fa-facebook"></i></a>
+                     </li>
+                     <li><a href="#"><i class="fab fa-twitter"></i></a>
+                     </li>
+                     <li><a href="#"><i class="fab fa-instagram"></i></a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="single-team">
+               <div class="team-bg">
+                  <img src="assets/img/team-4.jpg" alt="Scarlet Pena" class="rounded w-100">
+               </div>
+               <div class="team-content">
+                  <h4>Bob Wills</h4>
+                  <p>Member</p>
+                  <ul class="team-social">
+                     <li><a href="#"><i class="fab fa-facebook"></i></a>
+                     </li>
+                     <li><a href="#"><i class="fab fa-twitter"></i></a>
+                     </li>
+                     <li><a href="#"><i class="fab fa-instagram"></i></a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Teams -->
+
+<!-- Blogs -->
+<section class="blogs-area pt-100 pb-100">
+   <div class="container">
+      <div class="row">         
+         <div class="col-12">
+            <div class="section-title text-center mb-5">
+               <span class="text-capitalize mb-1">Connect with Us</span>
+               <h4 class="text-capitalize">let’s get connected</h4>
+               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi quam excepturi harum ipsa <br> veritatis eos quisquam asperiores tempora officiis nihil.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-md-4">
+            <article class="single-post">
+               <div class="post-thumbnail" style="background-image: url('assets/img/post-1.jpg')"></div>
+               <div class="post-content">
+                  <span>14 Mar, 2020</span>
+                  <h4><a href="#">Cheerful Loving Couple Bakers Drinking Coffee</a></h4>
+                  <p>It’s no secret that the digital industry is booming. From exciting startups to global …</p>
+                  <a href="#">Read More</a>
+               </div>
+            </article>
+         </div>
+         <div class="col-md-4">
+            <article class="single-post">
+               <div class="post-thumbnail" style="background-image: url('assets/img/post-1.jpg')"></div>
+               <div class="post-content">
+                  <span>14 Mar, 2020</span>
+                  <h4><a href="#">Cheerful Loving Couple Bakers Drinking Coffee</a></h4>
+                  <p>It’s no secret that the digital industry is booming. From exciting startups to global …</p>
+                  <a href="#">Read More</a>
+               </div>
+            </article>
+         </div>
+         <div class="col-md-4">
+            <article class="single-post">
+               <div class="post-thumbnail" style="background-image: url('assets/img/post-1.jpg')"></div>
+               <div class="post-content">
+                  <span>14 Mar, 2020</span>
+                  <h4><a href="#">Cheerful Loving Couple Bakers Drinking Coffee</a></h4>
+                  <p>It’s no secret that the digital industry is booming. From exciting startups to global …</p>
+                  <a href="#">Read More</a>
+               </div>
+            </article>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Blogs -->
+
+<!-- Contact -->
+<section class="contact-area pt-100 pb-100">
+   <div class="container">
+      <div class="row">         
+         <div class="col-12">
+            <div class="section-title text-center mb-5">
+               <span class="text-capitalize mb-1">Connect with Us</span>
+               <h4 class="text-capitalize">let’s get connected</h4>
+               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi quam excepturi harum ipsa <br> veritatis eos quisquam asperiores tempora officiis nihil.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row align-items-center">
+         <div class="col-lg-6">
+            <div class="contact-form">
+               <form action="#">
+                  <div class="form-group mb-3">
+                     <label class="form-label">Full Name</label>
+                     <input type="text" class="form-control"/>
+                  </div>
+                  <div class="form-group mb-3">
+                     <label class="form-label">Subject</label>
+                     <input type="text" class="form-control"/>
+                  </div>
+                  <div class="form-group mb-3">
+                     <label class="form-label">Email address</label>
+                     <input type="email" class="form-control"/>
+                  </div>
+                  <div class="form-group mb-3">
+                     <label class="form-label">Write Message</label>
+                     <textarea class="form-control"></textarea>
+                  </div>
+                  <input type="submit" value="Send Message"/>
+               </form>
+            </div>
+         </div>
+         <div class="col-lg-6">
+            <div class="single-contact d-flex align-items-center">
+               <div class="contact-icon">
+                  <i class="fa-solid fa-location-dot"></i>
+               </div>
+               <div class="contact-info ms-3">
+                  <h4>Address</h4>
+                  <p>231 Ross Street. K7A 1C2. UAS</p>
+               </div>
+            </div>
+            <div class="single-contact d-flex align-items-center">
+               <div class="contact-icon">
+                  <i class="fa-solid fa-phone"></i>
+               </div>
+               <div class="contact-info ms-3">
+                  <h4>Phone</h4>
+                  <p>+880 123 4567 890</p>
+               </div>
+            </div>
+            <div class="single-contact d-flex align-items-center">
+               <div class="contact-icon">
+                  <i class="fa-regular fa-envelope"></i>
+               </div>
+               <div class="contact-info ms-3">
+                  <h4>Email</h4>
+                  <p>info@example.com</p>
+               </div>
+            </div>
+            <div class="single-contact d-flex align-items-center">
+               <div class="contact-icon">
+                  <i class="fa-solid fa-globe"></i>
+               </div>
+               <div class="contact-info ms-3">
+                  <h4>Website</h4>
+                  <p>www.example.com</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Contact -->
+<?php include 'footer.php'; ?>
