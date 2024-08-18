@@ -65,6 +65,13 @@ body{
 #navbarContent li a:hover{
   color: #51B56D;
 }
+.navbar-nav li a {
+	color: #333;
+	font-weight: 500;
+	font-size: 18px;
+	margin-left: 35px;
+	padding: 0 !important;
+}
 
 /* Banner */
 .banner-area {
@@ -151,8 +158,10 @@ body{
 
 /* Testimonials */
 .single-testimonial p {
-  color: #808080;
-  font-size: 15px;
+	color: #333;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 27px;
 }
 .author-info {
   display: flex;
@@ -160,7 +169,10 @@ body{
   margin-top: 25px;
 }
 .single-testimonial {
-  margin-bottom: 40px;
+	margin-bottom: 40px;
+	background-color: #fff;
+	padding: 20px;
+	border: 1px solid #ddd;
 }
 .author-info img {
   max-width: 60px;
@@ -178,7 +190,7 @@ body{
   font-weight: 400;
   font-style: italic;
   margin-top: 7px;
-  color: #808080;
+  color: #333;
 }
 
 /* Team */
@@ -210,7 +222,12 @@ body{
 }
 
 /* Blogs */
-
+.section-title {
+	margin-bottom: 70px !important;
+}
+.blogs-area, .testimonials-area {
+	background-color: #f4f4f4;
+}
 .post-thumbnail {
   background-size: cover;
   background-position: center;
@@ -226,6 +243,7 @@ body{
 .post-content h4 {
   font-size: 22px;
   line-height: 32px;
+  font-weight: 600;
 }
 .post-content h4 a:hover {
   color: #51B56D;
@@ -295,7 +313,7 @@ body{
   font-weight: 500;
 }
 .footer-widget ul li a:hover {
-  color: red;
+  color: #51B56D;
 }
 .footer-gallery {
   display: flex;
@@ -308,7 +326,7 @@ body{
   max-width: 100%;
 }
 .copyright-area {
-  background-color: #777;
+  background-color: #111;
   padding: 20px 0;
 }
 .copyright-area p {
